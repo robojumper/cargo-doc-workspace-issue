@@ -1,0 +1,7 @@
+[package]
+name = "liba"
+version = "0.1.0"
+authors = ["robojumper"]
+edition = "2018"
+
+[dependencies]
